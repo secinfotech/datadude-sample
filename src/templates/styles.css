@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #00274d, #0051a0);
+    color: #ffffff;
+}
+
+header {
+    background: linear-gradient(90deg, #ff4e50, #f9d423);
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+nav {
+    background: #0051a0;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #ff4e50;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    background: #ffffff10;
+    border-radius: 8px;
+    color: white;
+}
+
+footer {
+    background: #00274d;
+    text-align: center;
+    padding: 15px;
+    color: #ffffff;
+}
